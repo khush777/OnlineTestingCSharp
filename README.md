@@ -1,4 +1,6 @@
 # OnlineTestingCSharp
 Online Testing Desktop Application in CSharp
 
-This project was created for the purpose of academic reasearch in C# and ASP.NET
+This academic reasearch project in C# and ASP.NET, replicates an online testing platform on the web. 
+Features included
+-timed-online testing with multiple-choice questions from a question bank in SQL database
